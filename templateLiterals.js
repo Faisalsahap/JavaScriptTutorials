@@ -1,8 +1,8 @@
-const msg1= 'This is javascript code'
-const msg2 = "This is \n" 
-                + "'javascript' code"
+// const msg1= 'This is javascript code'
+// const msg2 = "This is \n" 
+//                 + "'javascript' code"
 
-console.log(msg2)
+// console.log(msg2)
 
 //Literals
 //object={}
