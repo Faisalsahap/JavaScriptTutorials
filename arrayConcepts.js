@@ -53,6 +53,13 @@ console.log(c1)
 console.log(c1.id)
 console.log(c1.name1)
 
+//Lamda function =>
+const c4 = course.find(courseName => courseName.name2=== 'JavaScript');
+
+console.log(c4)
+console.log(c4.id)
+console.log(c4.name2)
+
 //index of 
 
 const c2 =course.findIndex(function(courseName){
